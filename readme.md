@@ -13,7 +13,7 @@ The course is a 3-credit graduate course in the Department of Biomedical Informa
   1. To understand programming procedural and object-oriented concepts.
   2. To learn python commands and widely used platforms.
   3. To practice algorithmic thinking for solving mathematical, statistical, and biomedical problems in python.
-  4. To apply python commands in real-life applications
+  4. To apply python commands in real-life applications.
 
 
 
