@@ -1,5 +1,10 @@
+
 # BMI6018-Fall2020
-### Introduction to prograaming langguage course      
+
+
+### Introduction to programing language course   
+
+
 
 <img width="1053" alt="course logo" src="https://user-images.githubusercontent.com/28988982/87330461-d94daf00-c4f5-11ea-806d-d108b38d196c.png">
 
