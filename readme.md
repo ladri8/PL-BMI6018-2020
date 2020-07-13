@@ -1,7 +1,7 @@
 # BMI6018-Fall2020
 ### Introduction to prograaming langguage course      
 
-![Alt text](http:/samabdo/PL-BMI6018-2020/course logo/course logo.png?raw=true)
+<img width="1053" alt="course logo" src="https://user-images.githubusercontent.com/28988982/87330461-d94daf00-c4f5-11ea-806d-d108b38d196c.png">
 
 The course is a 3-credit graduate course in the Department of Biomedical Informatics at the University of Utah. It will equip students with programming skills to develop computer programs and to analyze publicly available datasets in the medical informatics domain. The students will learn python programming skills, their application using widely used platforms, and software version control using git. Mathematical and statistical principles relevant to biomedical data science will be reviewed through programming examples and problems.
 
