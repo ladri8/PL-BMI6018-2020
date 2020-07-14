@@ -4,7 +4,7 @@
 
 ### Introduction to programing language course   
 
-![image](courselogo/courselogo.png)
+![image](logo/courselogo.png)
 
 The course is a 3-credit graduate course in the Department of Biomedical Informatics at the University of Utah. It will equip students with programming skills to develop computer programs and to analyze publicly available datasets in the medical informatics domain. The students will learn python programming skills, their application using widely used platforms, and software version control using git. Mathematical and statistical principles relevant to biomedical data science will be reviewed through programming examples and problems.
 
