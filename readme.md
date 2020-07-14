@@ -2,7 +2,7 @@
 # BMI6018-Fall2020
 
 
-### Introduction to programing language course   
+### Introduction to programming language course   
 
 ![image](logo/courselogo.png)
 
